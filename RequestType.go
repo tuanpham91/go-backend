@@ -1,0 +1,4 @@
+type RequestType String 
+const (
+	
+)
